@@ -23,7 +23,7 @@ public class DesempenhoFuncionario {
         }else if (pontuaçao >= 31 && pontuaçao <=70) {
             System.out.println("Bom");
 
-        }else if (pontuaçao >=70Beth && pontuaçao <= 100) {
+        }else if (pontuaçao >=70 && pontuaçao <= 100) {
             System.out.println("Ótimo"); 
         }else {
             System.out.println("Fora da pontuação");
